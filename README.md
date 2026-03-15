@@ -273,13 +273,5 @@ Rules are evaluated server-side via `POST /api/pricing/calculate` and the fronte
 | Manage Pricing Rules     | ✅    | ❌    |
 | Manage Users             | ✅    | ❌    |
 
-
-
-
-Admin	
-admin@quoteforge.com	
-Admin@123
-
-Sales	
-sales@quoteforge.com
+ge.com
 Sales@123
