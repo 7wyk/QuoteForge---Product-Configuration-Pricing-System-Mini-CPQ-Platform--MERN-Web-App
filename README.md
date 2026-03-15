@@ -273,5 +273,3 @@ Rules are evaluated server-side via `POST /api/pricing/calculate` and the fronte
 | Manage Pricing Rules     | ✅    | ❌    |
 | Manage Users             | ✅    | ❌    |
 
-ge.com
-Sales@123
